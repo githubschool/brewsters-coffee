@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: May 9-10, 2022
-- Facilitator: @allthedoll
+- Facilitator: @allthedoll ☕
 
 ## Class Resources
 
